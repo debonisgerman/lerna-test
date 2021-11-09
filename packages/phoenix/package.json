@@ -1,6 +1,6 @@
 {
   "name": "@pgdbv/phoenix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Germán <debonis.german@gmail.com>",
@@ -24,11 +24,11 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@pgdbv/phoenix-button": "^1.0.1",
-    "@pgdbv/phoenix-text": "^1.0.1"
+    "@pgdbv/phoenix-button": "^1.0.2",
+    "@pgdbv/phoenix-text": "^1.0.2"
   },
   "devDependencies": {
-    "@pgdbv/phoenix-builder": "^1.0.1"
+    "@pgdbv/phoenix-builder": "^1.0.2"
   },
   "gitHead": "c1c049cc956743c5136bbe96674b4d1e1360be7b"
 }
