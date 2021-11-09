@@ -1,2 +1,2 @@
-export { Button } from '@cddev/phoenix-button';
-export { Text } from '@cddev/phoenix-text';
+export { Button } from '@pgdbv/phoenix-button';
+export { Text } from '@pgdbv/phoenix-text';

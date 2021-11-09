@@ -6,7 +6,8 @@
   "scripts": {
     "build": "lerna run build",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "deploy": "npm run build-storybook && gh-pages -d storybook-static"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +19,7 @@
     "@storybook/addon-links": "^6.3.12",
     "@storybook/react": "^6.3.12",
     "babel-loader": "^8.2.3",
+    "gh-pages": "^3.2.3",
     "lerna": "^4.0.0"
   },
   "dependencies": {

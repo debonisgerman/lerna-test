@@ -2,8 +2,8 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
-var phoenixButton = require('@cddev/phoenix-button');
-var phoenixText = require('@cddev/phoenix-text');
+var phoenixButton = require('@pgdbv/phoenix-button');
+var phoenixText = require('@pgdbv/phoenix-text');
 
 
 
