@@ -32,5 +32,6 @@
   },
   "dependencies": {
     "clsx": "^1.1.1"
-  }
+  },
+  "gitHead": "c1c049cc956743c5136bbe96674b4d1e1360be7b"
 }
