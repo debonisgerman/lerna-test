@@ -5,6 +5,7 @@ const resolve = require('@rollup/plugin-node-resolve').default;
 const babel = require('@rollup/plugin-babel').default;
 const postcss = require('rollup-plugin-postcss');
 
+
 const currentWorkingPath = process.cwd();
 // Little refactor from where we get the code
 const { src, name } = require(path.join(currentWorkingPath, 'package.json'));
